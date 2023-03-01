@@ -9,6 +9,7 @@ Diego Beristain de la Mora
 
 ## Ver Proyecto en vivo 👁️
 
+https://zlocker01.github.io/Landind-Page__FrontendMentor/
 
 ## Instalacion 🔌
 
